@@ -11,7 +11,7 @@ repository = "https://github.com/iovxw/rssbot"
 log = "0.3"
 env_logger = "0.3"
 lazy_static = "0.2"
-regex = "0.2"
+regex = "1.5"
 pinyin-order = "0.1"
 
 quick-xml = "0.7"
